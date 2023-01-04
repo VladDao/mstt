@@ -1,4 +1,4 @@
-package ua.mstt.plietnov;
+package ua.mstt.plietnov.lb1.custom.behaviour;
 
 import jade.core.behaviours.OneShotBehaviour;
 
